@@ -1,0 +1,17 @@
+{
+  "name": "privacy-policy",
+  "description": "",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "eleventy --serve --quiet",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "0.11.0",
+    "@nekohack/normalize.css": "^1.1.0",
+    "clean-css": "4.2.3",
+    "dayjs": "1.8.28",
+    "eleventy-plugin-pwa": "1.0.8",
+    "html-minifier": "4.0.0"
+  }
+}
