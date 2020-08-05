@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "0.11.0",
-    "@nekohack/normalize.css": "1.1.0",
+    "@nekohack/normalize.css": "1.2.0",
     "clean-css": "4.2.3",
     "dayjs": "1.8.32",
     "eleventy-plugin-pwa": "1.0.8",
