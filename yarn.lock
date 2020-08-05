@@ -84,10 +84,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@nekohack/normalize.css@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@nekohack/normalize.css/-/normalize.css-1.1.0.tgz#71fe569dec53065d766e9fbfbf1b7d7b376f1138"
-  integrity sha512-t648VKJgYnJ5va6W/n5HS7PZ1W3HOl+OmbZaSYBtU0W5ZERjAJXbvCWrnmZkGz70Re9kV8kaT7ycFwi7HE8KFA==
+"@nekohack/normalize.css@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@nekohack/normalize.css/-/normalize.css-1.2.0.tgz#d562c81b4df37db41a8fc4954b8b91160a985863"
+  integrity sha512-kwkXstrukLXD3+HH37pvo/nZxoBYdxOScTzTKq7cjc+W85JL7LhaLvM6FUqNwZtTzVIjDMrTHht1OZW3KVCo/Q==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
