@@ -1,4 +1,4 @@
-# Privacy Policy
+# Policy
 
 ```bash
 # localhost
